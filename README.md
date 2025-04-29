@@ -1,15 +1,16 @@
-<!-- 방문자 수 뱃지 -->
+<!-- Visit View -->
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=xxxjojo12.xxxjojo12" />
 </p>
 
-<!-- 제목 -->
+<!-- Title -->
 <h1 align="center">
   👋🏻 Hi there! I'm Ha-il (Ian) Lim
 </h1>
 
-<!-- LinkedIn 뱃지 -->
-<p align="center">
+<!-- Contacts -->
+### 📞 Contacts & Resume
+<p align="left">
   <a href="mailto:ianlim.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail&logoColor=white" />
   </a>
