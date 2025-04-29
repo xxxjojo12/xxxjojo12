@@ -8,15 +8,6 @@
   👋🏻 Hi there! I'm Ha-il (Ian) Lim
 </h1>
 
----
-
-### 🧑‍💻 About Me
-- 🎓 I'm a Computer Science major student  
-- 🌎 Originally from South Korea 🇰🇷, currently studying in the US  
-- 🔭 Currently working on some cool web and AI projects  
-- 📫 Reach me at: [ianlim.dev@gmail.com](mailto:ianlim.dev@gmail.com)
-
-  
 <!-- LinkedIn 뱃지 -->
 <p align="center">
   <a href="mailto:ianlim.dev@gmail.com" target="_blank">
@@ -31,6 +22,15 @@
     <img src="https://img.shields.io/badge/Resume-View-4B8BBE?style=flat&logo=google-drive&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 🧑‍💻 About Me
+- 🎓 I'm a Computer Science major student  
+- 🌎 Originally from South Korea 🇰🇷, currently studying in the US  
+- 🔭 Currently working on some cool web and AI projects  
+- 📫 Reach me at: [ianlim.dev@gmail.com](mailto:ianlim.dev@gmail.com)
+
 
 ---
 
