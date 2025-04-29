@@ -5,7 +5,7 @@
 
 <!-- 제목 -->
 <h1 align="center">
-  👋 Hi there! I'm Ha-il (Ian) Lim
+  👋🏻 Hi there! I'm Ha-il (Ian) Lim
 </h1>
 
 <!-- 움짤 이미지 -->
