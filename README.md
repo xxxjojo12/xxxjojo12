@@ -41,7 +41,7 @@
 
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ian&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxxjojo12&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xxxjojo12&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xxxjojo12&theme=monokai" />
 </p>
