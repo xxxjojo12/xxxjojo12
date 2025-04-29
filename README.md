@@ -3,15 +3,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=xxxjojo12.xxxjojo12" />
 </p>
 
-<!-- 제목 -->
-<h1 align="center">
-  👋🏻 Hi there! I'm Ha-il (Ian) Lim
-</h1>
-
-<!-- 움짤 이미지 -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/XxHVJxuogNP32/200.webp?cid=ecf05e47kghhme42ew0ddgtffajybymi1pe29kub5f59sd0j&ep=v1_gifs_search&rid=200.webp&ct=g" width="230" />
-</p>
+<!-- 제목과 움짤 -->
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <h1 style="margin-right: 10px;">👋🏻 Hi there! I'm Ha-il (Ian) Lim</h1>
+  <img src="https://media2.giphy.com/media/XxHVJxuogNP32/200.webp?cid=ecf05e47kghhme42ew0ddgtffajybymi1pe29kub5f59sd0j&ep=v1_gifs_search&rid=200.webp&ct=g" width="60" />
+</div>
 
 ---
 
