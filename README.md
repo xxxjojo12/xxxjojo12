@@ -14,7 +14,15 @@
 - 🎓 I'm a Computer Science major student  
 - 🌎 Originally from South Korea 🇰🇷, currently studying in the US  
 - 🔭 Currently working on some cool web and AI projects  
-- 📫 Reach me at: [ianlim.dev@gmail.com](mailto:ianlim.dev@gmail.com)  
+- 📫 Reach me at: [ianlim.dev@gmail.com](mailto:ianlim.dev@gmail.com)
+
+  
+<!-- LinkedIn 뱃지 -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ha-il-lim-11894b221/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
