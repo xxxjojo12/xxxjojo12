@@ -19,6 +19,10 @@
   
 <!-- LinkedIn 뱃지 -->
 <p align="center">
+  <a href="mailto:ianlim.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ha-il-lim-11894b221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
