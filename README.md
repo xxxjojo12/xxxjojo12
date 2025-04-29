@@ -26,6 +26,10 @@
   <a href="https://www.linkedin.com/in/ha-il-lim-11894b221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1VfMzwq-7nkTr2KDvqGfe7v3YTIRC8Ske/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-4B8BBE?style=flat&logo=google-drive&logoColor=white" />
+  </a>
 </p>
 
 ---
