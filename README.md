@@ -5,7 +5,7 @@
 
 <!-- Title -->
 <h1 align="left">
-  👋🏻 Hi there! I'm Ha-il (Ian) Lim
+  Ian Lim
 </h1>
 
 <!-- Contacts -->
