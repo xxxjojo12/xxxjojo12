@@ -32,6 +32,10 @@
 - 🔭 Currently working on some cool web and AI projects  
 - 📫 Reach me at: [ianlim.dev@gmail.com](mailto:ianlim.dev@gmail.com)
 
+---
+
+### 🚧 Currently Working On
+- 🌐 **Personal Portfolio Website** with React, Docker, and GCP/AWS
 
 ---
 
