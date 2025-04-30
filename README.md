@@ -35,7 +35,7 @@
 ---
 
 ### 🚧 Currently Working On
-- 🌐 **Personal Portfolio Website** with React, Docker, and GCP/AWS
+- 🌐 **[Personal Portfolio Website](https://github.com/xxxjojo12/portfolio)**
 
 ---
 
