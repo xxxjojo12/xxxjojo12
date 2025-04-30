@@ -1,10 +1,10 @@
 <!-- Visit View -->
-<p align="right">
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=xxxjojo12.xxxjojo12" />
 </p>
 
 <!-- Title -->
-<h1 align="center">
+<h1 align="left">
   👋🏻 Hi there! I'm Ha-il (Ian) Lim
 </h1>
 
@@ -49,7 +49,7 @@
 ---
 
 ### 📈 Stats
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxxjojo12&theme=monokai" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xxxjojo12&theme=monokai" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xxxjojo12&theme=monokai" />
