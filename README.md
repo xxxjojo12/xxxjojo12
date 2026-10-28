@@ -1,60 +1,36 @@
-<!-- Visit View -->
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xxxjojo12.xxxjojo12" />
-</p>
+# Hi, I'm Ian Lim 👋
 
-<!-- Title -->
-<h1 align="left">
-  Ian Lim
-</h1>
+**CS grad student at UIUC · Aspiring ML/AI Engineer**
 
-<!-- Contacts -->
-### 📞 Contacts & Resume
-<p align="left">
-  <a href="mailto:ianlim.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ha-il-lim-11894b221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1VfMzwq-7nkTr2KDvqGfe7v3YTIRC8Ske/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-4B8BBE?style=flat&logo=google-drive&logoColor=white" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-ianlim.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ianlim.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ha-il-lim-11894b221/)
+[![Resume](https://img.shields.io/badge/Resume-View-4B8BBE?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VfMzwq-7nkTr2KDvqGfe7v3YTIRC8Ske/view?usp=drive_link)
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 I'm a Computer Science major student  
-- 🌎 Originally from South Korea 🇰🇷, currently studying in the US  
-- 🔭 Currently working on some cool web and AI projects  
-- 📫 Reach me at: [ianlim.dev@gmail.com](mailto:ianlim.dev@gmail.com)
-
----
-
-### 🚧 Currently Working On
-- 🌐 **[Personal Portfolio Website](https://github.com/xxxjojo12/portfolio)**
-
----
+- 🎓 Master of Computer Science (MCS) @ **University of Illinois Urbana-Champaign** (2026 – present)
+- 🎓 B.S. in Computer Science @ **Michigan State University** (2025)
+- 🤖 Working toward a career as an **ML/AI Engineer**
+- 🌎 Originally from South Korea 🇰🇷, now in the US
 
 ### ⚒️ Tech Stack
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**ML & Data**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Web**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**Tools & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-
----
-
-### 📈 Stats
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxxjojo12&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xxxjojo12&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xxxjojo12&theme=monokai" />
-</p>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
