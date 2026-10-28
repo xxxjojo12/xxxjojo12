@@ -12,9 +12,13 @@
 
 ---
 
+<a href="https://leetcode.com/u/IMIANNN/">
+  <img align="right" src="https://leetcard.jacoblin.cool/IMIANNN?ext=heatmap&font=Inter&border=0&radius=8" width="400" alt="LeetCode Stats" />
+</a>
+
 ### About
-- M.S. in Computer Science (MCS) @ **University of Illinois Urbana-Champaign** · 2026 – present
-- B.S. in Computer Science @ **Michigan State University** · 2025
+- M.S. in CS (MCS) @ **UIUC** · 2026 – present
+- B.S. in CS @ **Michigan State University** · 2025
 - Working toward a career as an **ML/AI Engineer**
 - Originally from South Korea 🇰🇷, now in the US
 
@@ -29,8 +33,3 @@
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
-### LeetCode
-<a href="https://leetcode.com/u/IMIANNN/">
-  <img src="https://leetcard.jacoblin.cool/IMIANNN?ext=heatmap&font=Inter&border=0&radius=8" width="480" alt="LeetCode Stats" />
-</a>
