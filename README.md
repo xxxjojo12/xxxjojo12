@@ -37,6 +37,6 @@
 
 
 ### 📊 LeetCode
-<a href="https://leetcode.com/u/IMIANNN/">
+<a href="https://leetcode.com/u/IMIANNNN/">
   <img src="https://leetcard.jacoblin.cool/IMIANNNN?ext=heatmap&font=Inter" alt="LeetCode Stats" />
 </a>
