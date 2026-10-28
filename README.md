@@ -1,4 +1,4 @@
-# Hi, I'm Ian Lim 👋
+# Hi, I'm Ha-il Lim 👋
 
 **CS grad student at UIUC · Aspiring ML/AI Engineer**
 
