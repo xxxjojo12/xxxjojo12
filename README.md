@@ -34,3 +34,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+
+
+### 📊 LeetCode
+<a href="https://leetcode.com/u/IMIANNNN/">
+  <img src="https://leetcard.jacoblin.cool/IMIANNNN?ext=heatmap&font=Inter" alt="LeetCode Stats" />
+</a>
